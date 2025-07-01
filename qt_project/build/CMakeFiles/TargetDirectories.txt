@@ -1,0 +1,3 @@
+C:/msys64/home/Ritesh/qt_project/build/CMakeFiles/QtLibraryGUI.dir
+C:/msys64/home/Ritesh/qt_project/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/Ritesh/qt_project/build/CMakeFiles/rebuild_cache.dir
