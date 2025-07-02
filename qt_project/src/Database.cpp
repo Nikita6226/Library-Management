@@ -9,7 +9,7 @@ bool connectToDatabase()
     db.setHostName("localhost");
     db.setDatabaseName("library_db");
     db.setUserName("root");
-    db.setPassword("your_password"); // 🔐 Replace with your actual password
+    db.setPassword("Nikita@"); 
 
     if (!db.open())
     {
